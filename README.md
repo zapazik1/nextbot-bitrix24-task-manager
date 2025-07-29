@@ -39,11 +39,6 @@ nextbot_functions/
 ├── show_task.py         # Просмотр списка задач
 └── create_project.py    # Создание проектов/рабочих групп
 
-ai-docs/
-├── basic-structure.md   # Документация по структуре
-└── api-routes.md        # Описание API endpoints
-
-example_nextbot_function.py  # Пример функции для платформы
 ```
 
 ## Примеры использования
